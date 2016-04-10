@@ -8,8 +8,8 @@
 		<artifactId>design-patterns</artifactId>
 		<version>1.0</version>
 	</parent>
-	<artifactId>observer-design-pattern</artifactId>
-	<name>observer-design-pattern</name>
+	<artifactId>singleton-design-pattern</artifactId>
+	<name>singleton-design-pattern</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
