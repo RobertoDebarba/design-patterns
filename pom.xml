@@ -13,6 +13,7 @@
 		<module>factory-method-design-pattern</module>
 		<module>abstract-factory-design-pattern</module>
 		<module>decorator-design-pattern</module>
+		<module>adapter-design-pattern</module>
 	</modules>
 	<packaging>pom</packaging>
 
