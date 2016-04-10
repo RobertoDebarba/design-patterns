@@ -9,6 +9,7 @@
         <module>strategy-design-pattern</module>
         <module>observer-design-pattern</module>
     <module>singleton-design-pattern</module>
+    <module>factory-method-design-pattern</module>
   </modules>
     <packaging>pom</packaging>
 
