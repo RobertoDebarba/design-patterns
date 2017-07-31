@@ -1,15 +1,22 @@
 # Design patterns
 
-This is a simple Java project containing the implementation of design patterns. You can check the theory in each folder.
+This repository contains simple Java projects with design patterns implementations.
+If you want to learn more about each pattern, I suggest [Source Making](https://sourcemaking.com/design_patterns) web site.
 
-## Build and Run ##
+*Este repositório contém projetos Java com a implementação de padrões de projeto.
+Se você quer aprender mais sobre cada padrão, eu sugiro o site [Source Making](https://sourcemaking.com/design_patterns)*
 
-### Requirements ###
+## Already implemented
+
+* abstract factory
+* adapter
+* decorator
+* factory method
+* observer
+* singleton
+* strategy
+
+## Requirements
+
 * JDK 8
 * Maven
-  
-### Run ###
-* Compile:
-```shell
-mvn compile
-```
